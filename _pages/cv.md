@@ -9,56 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Profile
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+工程与设计之间的桥梁，偏爱把小想法打磨成轻量、好用的工具。关注产品体验、数据可视化、自动化脚本和硬件折腾。
 
-Work experience
+Focus
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- Web / Data / Tools
+- TypeScript · Rust · Python · C++
+- 远程桌面 / 音视频 / 数据可视化 / Rust + WASM
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Projects
+======
+- **SimpleRustDesk** — C++ 精简版远程控制与桌面接入  
+- **WindowCaster** — Windows 远程窗口渲染，低延迟多窗口切换  
+- **McpCollection** — MCP 插件与示例合集，快速搭建智能代理  
+- **LiveAudioTrans** — Windows CLI 实时音频转写与翻译  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- 产品与前端架构：从概念到可用的 Web/Data 工具化落地  
+- 系统/音视频：远程渲染、低延迟传输、CLI 工具  
+- 自动化与脚本：MCP、知识整理、发布流水线
 
-Publications
+Contact
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Email: [swartz_lubel@outlook.com](mailto:swartz_lubel@outlook.com)  
+- GitHub: [@SwartzMss](https://github.com/SwartzMss)  
+- Twitter: [@LubelSwartz](https://twitter.com/LubelSwartz)

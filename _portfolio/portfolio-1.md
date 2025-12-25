@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "SimpleRustDesk"
+excerpt: "C++ 精简版 RustDesk · 远程控制与桌面接入"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+精简架构，专注远程控制、桌面接入和自定义插件。  
+技术：C++、远程桌面、网络传输  
+链接：<https://github.com/SwartzMss/SimpleRustDesk>
