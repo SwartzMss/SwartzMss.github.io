@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Swartz MSS"
+title                    : "Swartz Studio"
 title_separator          : "-"
 name                     : &name "Swartz MSS"
 description              : &description "Swartz MSS · 产品体验、数据可视化与工具化"

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Swartz MSS"
+title: "Swartz Studio"
 author_profile: true
 redirect_from:
   - /about/
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 工程和设计之间的桥梁，偏爱把小想法打磨成轻量、好用的工具。关注产品体验、数据可视化、自动化脚本和硬件折腾。
+
+有生哲学：活着就要不断折腾，把有趣的念头落地成看得见的东西。
+
+> 当你知道你是你时，你就不是你了；当你知道你不是你时，你才是你。
 
 ## 最近在看
 - 剧集：越狱 / 纸牌屋 / 天道 / 大明王朝 / 沉默的真相 / 权力的游戏 / 红楼梦
@@ -20,8 +24,3 @@ redirect_from:
 - 基础设施：Docker / nginx / 音视频处理
 - 硬件：ESP32 / Raspberry Pi
 - 其他：MCP、浏览器端实验（WASM 等）
-
-## 联系
-- Email: [swartz_lubel@outlook.com](mailto:swartz_lubel@outlook.com)  
-- GitHub: [@SwartzMss](https://github.com/SwartzMss)  
-- Twitter: [@LubelSwartz](https://twitter.com/LubelSwartz)

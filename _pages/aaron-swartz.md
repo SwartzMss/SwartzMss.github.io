@@ -7,7 +7,6 @@ author_profile: true
 Aaron Hillel Swartz（1986–2013）是黑客、作家、活动家和公共领域的守护者。他致力于让知识、代码和网络更开放。
 
 ![Aaron Swartz](/images/aaron-swartz.jpg)
-<small>图片来源：Wikipedia / CC。</small>
 
 ## 生平与贡献
 - RSS 1.0 规范作者之一，推动信息订阅的开放标准。
