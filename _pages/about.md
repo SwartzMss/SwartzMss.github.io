@@ -12,7 +12,6 @@ redirect_from:
 <div class="media-block">
   <div class="media-block__header">
     <span class="media-block__eyebrow">偏爱</span>
-    <span class="media-block__subtitle">剧集收藏</span>
   </div>
   <ul class="media-chip-grid">
     <li class="media-chip">越狱</li>
@@ -28,7 +27,6 @@ redirect_from:
 <div class="media-block">
   <div class="media-block__header">
     <span class="media-block__eyebrow">青春</span>
-    <span class="media-block__subtitle">游戏清单</span>
   </div>
   <ul class="media-chip-grid">
     <li class="media-chip">DNF</li>
@@ -37,5 +35,16 @@ redirect_from:
     <li class="media-chip">万国觉醒</li>
     <li class="media-chip">黑悟空</li>
     <li class="media-chip">地球 Online</li>
+  </ul>
+</div>
+
+<div class="media-block">
+  <div class="media-block__header">
+    <span class="media-block__eyebrow">标签</span>
+  </div>
+  <ul class="media-chip-grid">
+    <li class="media-chip">程序员</li>
+    <li class="media-chip">奶爸</li>
+    <li class="media-chip">史帅</li>
   </ul>
 </div>
