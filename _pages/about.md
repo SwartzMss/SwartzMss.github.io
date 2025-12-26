@@ -52,5 +52,6 @@ redirect_from:
     <li class="media-chip">NAS</li>
     <li class="media-chip">游戏脚本</li>
     <li class="media-chip">Crypto</li>
+    <li class="media-chip">RaspberryPi</li>
   </ul>
 </div>
