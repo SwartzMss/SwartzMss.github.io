@@ -11,13 +11,13 @@ main:
   - title: "首页"
     url: /
 
-  - title: "开源分享"
+  - title: "开源"
     url: /open-source/
 
   - title: "博客"
     url: /year-archive/
 
-  - title: "个人履历"
+  - title: "档案"
     url: /cv/
 
   - title: "致敬"
