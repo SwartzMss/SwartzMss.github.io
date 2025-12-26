@@ -10,11 +10,16 @@ redirect_from:
 {% include base_path %}
 {% assign posts = site.posts | sort: "date" | reverse %}
 
-<ul>
-  {% for post in posts %}
-    <li>
-      <span>{{ post.date | date: "%Y-%m-%d" }}</span>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in posts %}
+  <article class="archive__item">
+    <h2 class="archive__item-title">{{ post.title }}</h2>
+    <p class="page__date">
+      <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> 发布：</strong>
+      <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y-%m-%d" }}</time>
+    </p>
+    <div class="archive__item-content">
+      {{ post.content }}
+    </div>
+  </article>
+  <hr>
+{% endfor %}
