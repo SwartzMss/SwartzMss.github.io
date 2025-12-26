@@ -8,4 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
-<p>内容整理中，博客列表暂时为空。</p>
+{% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" | sort: 'name' | reverse %}
+
+{% for year in postsByYear %}
+  <h2 id="{{ year.name }}">{{ year.name }}</h2>
+  <ul>
+    {% assign postsInYear = year.items | sort: "date" | reverse %}
+    {% for post in postsInYear %}
+      <li>
+        <span>{{ post.date | date: "%Y-%m-%d" }}</span>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
