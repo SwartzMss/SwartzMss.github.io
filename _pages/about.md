@@ -19,7 +19,9 @@ redirect_from:
     <li class="media-chip">天道</li>
     <li class="media-chip">大明王朝</li>
     <li class="media-chip">沉默的真相</li>
+    <li class="media-chip">绝命毒师</li>
     <li class="media-chip">权力的游戏</li>
+    <li class="media-chip">士兵突击</li>
     <li class="media-chip">红楼梦</li>
   </ul>
 </div>
@@ -46,5 +48,8 @@ redirect_from:
     <li class="media-chip">程序员</li>
     <li class="media-chip">奶爸</li>
     <li class="media-chip">史帅</li>
+    <li class="media-chip">3D打印</li>
+    <li class="media-chip">NAS</li>
+    <li class="media-chip">游戏脚本</li>
   </ul>
 </div>
