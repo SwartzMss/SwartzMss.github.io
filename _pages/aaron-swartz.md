@@ -1,5 +1,5 @@
 ---
-title: "致敬 Aaron Swartz"
+title: "致敬"
 permalink: /aaron-swartz/
 author_profile: true
 ---
