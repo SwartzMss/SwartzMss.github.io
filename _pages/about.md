@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-工程和设计之间的桥梁，偏爱把小想法打磨成轻量、好用的工具。关注产品体验、数据可视化、自动化脚本和硬件折腾。
-
-> 当你知道你是你时，你就不是你了；当你知道你不是你时，你才是你。
-
-## 偏爱
+当你知道你是你时，你就不是你了；当你知道你不是你时，你才是你
 
 <div class="media-block">
   <div class="media-block__header">
@@ -28,8 +24,6 @@ redirect_from:
     <li class="media-chip">红楼梦</li>
   </ul>
 </div>
-
-## 青春
 
 <div class="media-block">
   <div class="media-block__header">
