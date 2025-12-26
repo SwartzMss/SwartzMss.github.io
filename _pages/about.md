@@ -9,18 +9,17 @@ redirect_from:
 
 工程和设计之间的桥梁，偏爱把小想法打磨成轻量、好用的工具。关注产品体验、数据可视化、自动化脚本和硬件折腾。
 
-## 现在关注
-- Web / Data / Tools
-- TypeScript · Rust · Python
-- Rust + WASM，在浏览器里直接跑常用 CLI
+## 最近在看
+- 剧集：越狱 / 纸牌屋 / 天道 / 大明王朝 / 沉默的真相 / 权力的游戏 / 红楼梦
 
-## 项目
-- **SimpleRustDesk** — C++ 精简版远程桌面  
-- **WindowCaster** — 低延迟远程窗口渲染  
-- **McpCollection** — MCP 插件与示例合集  
-- **LiveAudioTrans** — Windows CLI 实时音频转写
+## 最近在玩
+- 游戏：DNF / LOL / 王者荣耀 / 万国觉醒 / 黑悟空 / 地球 Online
 
-更详细的内容见 [Portfolio](/portfolio/) 和 [Blog](/year-archive/)。
+## 技术栈
+- 语言与框架：C++ / Python / Rust / Qt
+- 基础设施：Docker / nginx / 音视频处理
+- 硬件：ESP32 / Raspberry Pi
+- 其他：MCP、浏览器端实验（WASM 等）
 
 ## 联系
 - Email: [swartz_lubel@outlook.com](mailto:swartz_lubel@outlook.com)  

@@ -8,14 +8,17 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "About"
+  - title: "首页"
     url: /
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "开源分享"
+    url: /open-source/
 
-  - title: "Blog"
+  - title: "博客"
     url: /year-archive/
 
-  - title: "CV"
+  - title: "个人履历"
     url: /cv/
+
+  - title: "致敬 Aaron Swartz"
+    url: /aaron-swartz/
