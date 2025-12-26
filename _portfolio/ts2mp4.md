@@ -1,5 +1,5 @@
 ---
-title: "Ts2Mp4"
+title: "TS文件转成MP4（腾讯视频）"
 excerpt: "本地 TS 合并为 MP4"
 collection: portfolio
 link: https://github.com/SwartzMss/Ts2Mp4
