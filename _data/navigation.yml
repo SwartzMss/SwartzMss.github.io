@@ -11,9 +11,6 @@ main:
   - title: "首页"
     url: /
 
-  - title: "开源"
-    url: /open-source/
-
   - title: "博客"
     url: /year-archive/
 
