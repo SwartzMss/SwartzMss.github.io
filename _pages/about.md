@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-当你知道你是你时，你就不是你了；当你知道你不是你时，你才是你
+世上本无事，庸人自扰之
 
 <div class="media-block">
   <div class="media-block__header">
