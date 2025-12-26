@@ -25,7 +25,7 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Swartz MSS"
   pronouns         : # example: "she/her"  
-  bio              : "世上本无事，庸人自扰之"
+  bio              : "当你知道你是你时，你就不是你了；当你知道你不是你时，你才是你"
   location         : "China · Hangzhou"
   employer         : 
   uri              : 
@@ -246,6 +246,7 @@ defaults:
       type: posts
     values:
       layout: single
+      author: "Swartz MSS"
       author_profile: true
       read_time: true
       comments: true
@@ -257,6 +258,7 @@ defaults:
       type: pages
     values:
       layout: single
+      author: "Swartz MSS"
       author_profile: true
   # _teaching
   - scope:

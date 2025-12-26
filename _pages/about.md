@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Swartz Studio"
+author: ""
 author_profile: true
 redirect_from:
   - /about/
