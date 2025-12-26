@@ -5,6 +5,6 @@ collection: portfolio
 link: https://github.com/SwartzMss/NewsAggregator
 ---
 
-NewsAggregator 聚合多源 RSS/Atom，定时抓取并结合 ETag/Last-Modified 与标题相似度、DeepSeek 语义判定做智能去重，文章与来源写入 PostgreSQL，React + Vite 前端提供阅读、订阅管理与标题搜索，附带管理员后台和 nginx/systemd 部署脚本，适合自建新闻流或学习抓取/去重/前后端联调。  
-技术：Rust、Axum、PostgreSQL、React、Vite、RSS、DeepSeek  
+新闻聚合平台，支持多 RSS 源与灵活过滤，接入本地 Ollama 做翻译与智能去重，同时提供 SQL 过滤、PostgreSQL 存储与 React 前端阅读/管理界面，适合自建新闻流或学习抓取、去重与前后端协同。  
+技术：Rust、PostgreSQL、React、RSS、Ollama  
 介绍视频：<https://www.bilibili.com/video/BV1dDCiBKE2B>
