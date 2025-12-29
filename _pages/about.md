@@ -54,5 +54,6 @@ redirect_from:
     <li class="media-chip">游戏脚本</li>
     <li class="media-chip">Crypto</li>
     <li class="media-chip">RaspberryPi</li>
+    <li class="media-chip">户外露营</li>
   </ul>
 </div>
