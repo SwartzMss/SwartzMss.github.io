@@ -18,7 +18,7 @@ redirect_from:
       <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y-%m-%d" }}</time>
     </p>
     <div class="archive__item-content">
-      {{ post.excerpt | markdownify | strip_html | strip_newlines | truncate: 180 }}
+      {{ post.excerpt | markdownify | strip_html | strip_newlines | truncate: 220 }}
       <div>
         <a href="{{ post.url | relative_url }}">阅读全文</a>
       </div>

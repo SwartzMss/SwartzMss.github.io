@@ -1,13 +1,13 @@
 ---
 title: "Vide coding 的一些校验分享"
 date: 2026-01-07
+excerpt_separator: "<!--more-->"
 ---
-
-Vide coding 的一些校验分享
-
 现在基本可以说，绝大多数程序员都已经在用 AI 写代码了。 不管是 Copilot、Codex 还是别的工具，大家多少都试过。
 
 而且使用路径几乎一模一样。
+
+<!--more-->
 
 一开始，大家都会让 AI 去写一个最基础的函数、实现一段简单逻辑。 然后发现：哇，amazing。
 
