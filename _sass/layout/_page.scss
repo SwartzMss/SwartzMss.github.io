@@ -382,11 +382,6 @@
   padding-top: 1em;
   border-top: 1px solid var(--global-border-color);
   @include clearfix();
-  float: left;
-
-  @include breakpoint($large) {
-    @include pre(2.5 of 12);
-  }
 
   a {
     color: inherit;
