@@ -2,6 +2,9 @@
 title: "Vide coding 的一些经验分享"
 date: 2026-01-07
 excerpt_separator: "<!--more-->"
+toc: true
+toc_label: "目录"
+toc_icon: "list"
 ---
 和 AI 写代码时，问题常出在输入信息太少、校验太晚、期望太高。我把用 Codex 的套路拆成：先要完整背景和设计，再分阶段实现，最后用规则化的 Review 和 DFMEA 做守门。AI 是筛子，人是裁判。
 
