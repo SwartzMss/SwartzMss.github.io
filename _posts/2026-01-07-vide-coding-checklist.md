@@ -1,5 +1,5 @@
 ---
-title: "Vide coding 的一些校验分享"
+title: "Vide coding 的一些经验分享"
 date: 2026-01-07
 excerpt_separator: "<!--more-->"
 ---
