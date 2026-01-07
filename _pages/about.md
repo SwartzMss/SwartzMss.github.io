@@ -24,6 +24,8 @@ redirect_from:
     <li class="media-chip">权力的游戏</li>
     <li class="media-chip">士兵突击</li>
     <li class="media-chip">红楼梦</li>
+    <li class="media-chip">黑冰</li>
+    <li class="media-chip">青瓷</li>
   </ul>
 </div>
 
